@@ -1,0 +1,25 @@
+{
+  "name": "codility-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flzpenteado/codility-lessons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flzpenteado/codility-lessons/issues"
+  },
+  "homepage": "https://github.com/flzpenteado/codility-lessons#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "jest": "^26.5.0"
+  }
+}
